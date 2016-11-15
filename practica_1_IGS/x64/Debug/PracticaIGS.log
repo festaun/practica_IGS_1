@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (PracticaIGS.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  practica_1_IGS.cpp
+  PracticaIGS.vcxproj -> C:\Users\francisco.estaun\Documents\Visual Studio 2015\Projects\Practica_IGS_1\x64\Debug\practica_1_IGS.exe
+  PracticaIGS.vcxproj -> C:\Users\francisco.estaun\Documents\Visual Studio 2015\Projects\Practica_IGS_1\x64\Debug\practica_1_IGS.pdb (Full PDB)
