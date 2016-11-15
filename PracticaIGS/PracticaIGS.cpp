@@ -63,7 +63,7 @@ void MovePlayer()
 
 int main()
 {
-	printf("\n\n\n\n\n\n\n\n\n\n"); //Move map to the center of the screen
+	printf("\n\n\n\n\n\n\n\n\n\n\n"); //Move map to the center of the screen
 	while (1) {
 		Paint();
 		MovePlayer();
